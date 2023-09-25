@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SianLou
 - 👀 I’m interested in creating beautiful designs and user experiences
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Agile
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me
+- 🌱 I’m currently learning HTML, CSS, JavaScript and UX Design
+- 💞️ I’m looking to collaborate on Web Development and UX Design
 
 
 
